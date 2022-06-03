@@ -97,20 +97,20 @@ section.parallax.imagem1 h1{
 
 /* imagens que são utilizadas  */
 
- section.parallax.imagem1{
-     background-image: url(/images/zelda4.webp);
+section.parallax.imagem1{
+     background-image: url(https://vifmarques.github.io/Projetos-StartSe/images/zelda4.webp);
 }
- section.parallax.imagem2{
-     background-image: url(/images/SuperMarioWorld.webp);
+section.parallax.imagem2{
+     background-image: url(https://vifmarques.github.io/Projetos-StartSe/images/SuperMarioWorld.webp);
 }
- section.parallax.imagem3{
-    background-image: url(/images/GTAV.jpg);
+section.parallax.imagem3{
+    background-image: url(https://vifmarques.github.io/Projetos-StartSe/images/GTAV.jpg);
 }
 section.parallax.imagem4{
-    background-image: url(/images/minecraft.png);
+    background-image: url(https://vifmarques.github.io/Projetos-StartSe/images/minecraft.png);
 }
 section.parallax.imagem5{
-    background-image: url(/images/playing\ minecraft.jpg);
+    background-image: url(https://vifmarques.github.io/Projetos-StartSe/images/playing\ minecraft.jpg);
 }
 
 

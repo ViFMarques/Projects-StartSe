@@ -98,19 +98,19 @@ section.parallax.imagem1 h1{
 /* imagens que são utilizadas  */
 
 section.parallax.imagem1{
-     background-image: url(https://vifmarques.github.io/Projetos-StartSe/images/zelda4.webp);
+     background-image: url(https://vifmarques.github.io/Projects-StartSe/images/zelda4.webp);
 }
 section.parallax.imagem2{
-     background-image: url(https://vifmarques.github.io/Projetos-StartSe/images/SuperMarioWorld.webp);
+     background-image: url(https://vifmarques.github.io/Projects-StartSe/images/SuperMarioWorld.webp);
 }
 section.parallax.imagem3{
-    background-image: url(https://vifmarques.github.io/Projetos-StartSe/images/GTAV.jpg);
+    background-image: url(https://vifmarques.github.io/Projects-StartSe/images/GTAV.jpg);
 }
 section.parallax.imagem4{
-    background-image: url(https://vifmarques.github.io/Projetos-StartSe/images/minecraft.png);
+    background-image: url(https://vifmarques.github.io/Projects-StartSe/images/minecraft.png);
 }
 section.parallax.imagem5{
-    background-image: url(https://vifmarques.github.io/Projetos-StartSe/images/playing\ minecraft.jpg);
+    background-image: url(https://vifmarques.github.io/Projects-StartSe/images/playing\ minecraft.jpg);
 }
 
 
@@ -244,8 +244,6 @@ section.parallax.imagem5 h1{
     font-size: 78px;
     z-index: 50;
 }
-
-
 
 /*configurações do footer*/
 

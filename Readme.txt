@@ -1,12 +1,12 @@
-Link para a webpage pronta: https://vifmarques.github.io/Projetos-StartSe/
+# Link to ready web page: https://vifmarques.github.io/Projects-StartSe/
 
 
-+ Esse projeto foi um desafio criado pela Tech Academy, para praticar HTML e CSS. 
-+ Criei uma webpage com efeito parallax utilizando HTML e CSS puro, utilizei também a API do Google para a fonte e ícones.
-+ Elaborei um tema original para minha página (uma ideia minha, já que amo jogar e jogo de tudo um pouco!): listar os 4 melhores jogos de todos os tempos.
-+ Criado do dia 31/05 ao dia 02/06.
++ This project was a challenge created by Tech Academy, to practice HTML and CSS. 
++ I created a webpage with parallax effect using pure HTML and CSS, I also used the Google API for the font and icons.
++ I built an original theme for my page (my idea, because I love to play and play a little bit of everything! ): list the 4 best games of all time.
++ developed from 31/05/2022 to 02/06/2022.
 
-Fontes que utilizei para consultas: 
+Sources I used for conference:
 
 https://www.pexels.com/
 https://fonts.google.com/specimen/Patrick+Hand?category=Sans+Serif,Display,Handwriting#type-tester

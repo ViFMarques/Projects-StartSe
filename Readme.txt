@@ -1,6 +1,6 @@
 
-✔️ This project was a challenge created by Tech Academy, to practice HTML and CSS. 
-✔️ I created a webpage with parallax effect using pure HTML and CSS, I also used the Google API for the font and icons.
+✔️ This project was a challenge created by Tech Academy, to practice CSS. 
+✔️ I created a webpage with parallax effect using pure HTML and CSS. I also used the Google API for the font and icons.
 ✔️ I built an original theme for my page (my idea, because I love to play and play a little bit of everything! ): list the 4 best games of all time.
 ✔️ developed from 31/05/2022 to 02/06/2022.
 
